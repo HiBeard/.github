@@ -1,12 +1,16 @@
-## Hi there 👋
+# HiBeard Solutions é uma empresa com foco em Automatizações, Bots e Desenvolvimento de Sistemas.
+<i>RPA</i>
 
-<!--
+## Trabalhamos com diversas plataformas e tecnologias.
+</i>Algumas delas são...</i>
 
-**Here are some ideas to get you started:**
+- Discord
+- Telegram
+- Whatsapp
+- LINE
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Também trabalhamos com a implementação de IAs poderosas como o ChatGPT e suas variantes, dentre outras.
+
+HiBeard Solutions está há um ano no mercado.
+
+Saiba mais em https://hibeard.solutions/
